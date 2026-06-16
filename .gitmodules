@@ -5,3 +5,6 @@
 [submodule "functional"]
 	path = functional
 	url = https://github.com/cran/functional
+[submodule "lisp"]
+	path = lisp
+	url = https://github.com/klutometis/r-lisp
